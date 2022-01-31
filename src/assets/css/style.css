@@ -339,6 +339,10 @@ Form
   font-size: 1.2rem;
 }
 
+.form-control input:focus {
+  outline: none;
+}
+
 /* 
 ====== 
 Cocktail
